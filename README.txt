@@ -45,20 +45,6 @@ The application runs by activating the cmd: py server.py
 
 And by writting the message.
 
-Proof:
-
-F:\ProiectRC>py server.py
-Listening for connections on 127.0.0.1:1234...
-
-F:\ProiectRC>py client.py
-Username: Dragos
-Dragos > RC este o materie  frumoasa!
-Dragos >
-
-F:\ProiectRC>py server.py
-Listening for connections on 127.0.0.1:1234...
-Accepted new connection from 127.0.0.1:xxxx, username: Dragos
-Received message from Dragos: RC este o materie  frumoasa!
 
 
 
